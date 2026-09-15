@@ -1,0 +1,11 @@
+/* css styles */
+.navbar-title {
+  font-family: "Source Serif 4";
+}
+/*
+Source - https://stackoverflow.com/a/42146896
+Posted by andi
+Retrieved 2026-09-15, License - CC BY-SA 3.0
+*/
+
+h1, h2, h3, h4, h5, h6 {font-family: "Source Serif 4", serif;}

@@ -1,0 +1,36 @@
+---
+title: "Johannah Palomo"
+about:
+  template: jolla
+  image: photo.jpg
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/johannahpalomo.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/johannahpalomo
+toc: false
+---
+
+**Johannah Palomo is a doctoral candidate in [sociology](https://sociology.unc.edu/) at the [University of North Carolina at Chapel Hill](https://unc.edu).**
+
+I am a mixed methods researcher and a scholar of religion, gender, and well-being. I am interested in how individuals understand, interpret, and enact the teachings and policies of their religious organizations and the relationship between religiosity and well-being.
+
+Beyond my scholarly work, I love going to the movies with friends, birding, reading, and watching basketball.
+
+## Education
+
++:------------------------------------------------+----------------:+
+| **University of North Carolina at Chapel Hill** | Chapel Hill, NC |
+|                                                 |                 |
+| PhD in Sociology <br />                         | 2027 (Expected) |
+| MA in Sociology                                 | 2023            |
++-------------------------------------------------+-----------------+
+| **Rice University**                             | Houston, TX     |
+|                                                 |                 |
+| BA in Sociology and the Study of <br />         | 2020            |
+| Women, Gender and Sexuality                     |                 |
++-------------------------------------------------+-----------------+
+
+

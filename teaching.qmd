@@ -1,0 +1,76 @@
+---
+title: "Teaching"
+callout-appearance: simple
+callout-icon: false
+---
+
+As a Graduate Teaching Fellow at UNC Chapel Hill, I teach *SOCI 129: Sociology of Religion* and *SOCI 422: Sociology of Mental Health and Illness* to undergraduates. I enjoy teaching; it is an opportunity to invite students to explore their world from a new perspective and consider more deeply the social processes they may take for granted in their everyday lives. I encourage active participation and discussion in my courses. In course reviews, students frequently remark they appreciate my preparation, organization, and facilitation. They recognize my passion and knowledge for the subjects I teach and find me approachable and dedicated to clarifying course information and providing accommodation.
+
+::: {.callout-note collapse="true"}
+## List of courses
+
+### Instructor of record
+
+- Sociology of Religion (Fall 2023, Spring 2024, Spring 2025, Spring 2026)
+- Sociology of Mental Health and Illness (Summer II 2023, Fall 2024, Fall 2025, Summer II 2026)
+
+### Teaching assistant
+
+- Social Stratification (Fall 2026)
+- Organizations and Bureaucracies (Spring 2023)
+- Research Methods (Fall 2022)
+- Sociological Perspectives (Spring 2022)
+- Health and Society (Fall 2021)
+- Sociology of Religion (Spring 2021)
+- Social and Economic Justice (Fall 2020)
+
+:::
+
+::: {.callout-note collapse="true"}
+## Selected student feedback
+
+### SOCI 422
+
+#### Fall 2024
+
+"My instructor was great! She made learning possible through class discussions, group discussions, TED talks, articles, and podcasts. She also encouraged us to make sure that were aware of mental health resources locally which I found very useful. Her style is teaching is one that I have needed and hope I continue to get on the road to graduation. She was easy to understand when explaining various ideas and also made you take your thoughts a step further."
+
+"Johannah went above and beyond over the semester to make learning possible! She greeted students everyday, was receptive to feedback, and was more than willing to answer questions. All of the course materials were available prior to class, the readings were digestible, and the lectures were clear and informative. Because of Johannah, I was genuinely excited to be in class at 9:05am!"
+
+"The willingness to listen and try to understand made it easier for students to communicate their concerns with her. The idea of "on the student's side" is very true when describing the type of lecturer she is, making the learning process and environment easier."
+
+"Johannah was very nice and approachable. I also appreciated that she was relatable and explained topics in a way that we could connect the information back to our own lived experiences."
+
+### SOCI 129
+
+#### Spring 2025
+
+"Professor Palomo was an absolutely wonderful instructor! She is clearly passionate about the course content, and she does a great job of stimulating engagement for the material. She facilitated great discussions, and she made me feel comfortable participating in class and in group discussions. I liked the balance she struck between lecture, small group discussions, activities, and big group discussions, as it helped me stay engaged. The workload was not overwhelming, but I did feel like all the course activities helped me think on a deeper level about the material. Professor Palomo's grading policies were very fair, and I never felt stressed about by the course, but she made it easy to stay on track. The course was well–organized and had a clear through–line, and I feel like I got a lot out of it!"
+
+"Professor Palomo always encouraged us to have in–class discussions, and although sometimes students got off topic, she did not discourage them. She found a way to tie it back into the lesson in some shape or form. She constantly found ways to allow topics in our society to make sense within the course."
+
+"The course assignments were very engaging and inspired me to look deeper into the subject. Lectures were very helpful, organized, and the concepts were illustrated very well which overall made the content understandable. Johannah's passion for the subject was very evident, making the course very interesting and enjoyable."
+
+#### Spring 2024
+
+"She was kind and open about what she was expecting of us. Johannah never made us feel like our answers were invalid. Johannah was very respectful of all of us and made sure we knew she cared about our approach."
+
+"Super friendly and was just fun to be in class. Also was clearly passionate and knows her stuff."
+
+"She always provided slides and extra resources as promised. She provided many different examples and ways to learn the material. The course was not just lecturing it was discussion, activity, review."
+
+"She has her assignments clearly laid out at the beginning of the semester which make it easy to organize with other classes and i never felt like I had too much going on for that class to the point of being overwhelmed. She also put the slides up so in case you had to miss, you could get the material, as well as she was also very good about emailing back and understanding of you had a conflict and would work through that with you."
+
+#### Fall 2023
+
+"Prof. Palomo really valued feedback from students who were raised in nonreligious, non-Christian households. As somebody who is Jewish, I found that my opinion mattered in class discussions, especially when the textbook centered more on its christian worldview."
+
+"Professor Palomo was so lovely and accommodating to our individual needs and learning requirements. I really appreciated that and the learning environment she created."
+
+"Johannah made learning possible for her students by providing lots of in class time to ask questions and discuss the subject matter. Johannah explained concepts in ways that were easily digestible by students unfamiliar with sociological terminology and followed the learning of these concepts with more challenging applications of what was learned in class."
+
+"We used a variety of methods for learning including a textbook, an in depth ethnography, videos, lectures, and many different participative activities to learn. She did an excellent job at making sure everyone understood and interacted with the course material. She was fantastic at helping us learn about the sociology of religion in a comfortable, engaging, and inclusive manner."
+
+"Johannah provided all students with all the resources necessary to learn the material properly. There was a clear syllabus that provided everything we needed, and she was available by email at reasonable hours. All PowerPoints with the information we learned that day were shared with us, and the test did not stray from what we learned."
+
+:::

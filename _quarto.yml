@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Johannah Palomo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - teaching.qmd
+      - cv.qmd
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: false
+    mainfont: "Open Sans"
+
+editor: source
+
